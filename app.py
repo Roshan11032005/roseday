@@ -130,7 +130,7 @@ st.markdown("""
             My love for you grows stronger with each petal of time.<br>
             Thank you for being my forever Valentine.<br><br>
             With all my heart,<br>
-            Your [Your Name] 💞
+            Your Chipda 💞
         </p>
     </div>
 """, unsafe_allow_html=True)
